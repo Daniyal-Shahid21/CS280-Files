@@ -1,0 +1,3 @@
+C:/Users/daniy/CLionProjects/CS280 Test Learner/cmake-build-debug/CMakeFiles/CS280_Test_Learner.dir
+C:/Users/daniy/CLionProjects/CS280 Test Learner/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/daniy/CLionProjects/CS280 Test Learner/cmake-build-debug/CMakeFiles/rebuild_cache.dir
